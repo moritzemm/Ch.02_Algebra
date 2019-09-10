@@ -1,23 +1,23 @@
 '''
-Sign your name:________________
+Sign your name:_Emma_E_Moritz_
 
 1.) How do you enter a single line comment in a program?
-
+#At the begining of the line
 
 
 
 2.) Enter a=2 and b=5 in the Python Console window and then all of the following. 
 What are the outputs?
 
-b/a                 =
-b//a                =
-b**a                =
-b%a                 =
-a+B                 =
-type(42)            =
-type(42.0)          =
-type("C3PO")        =
-type(True)          =
+b/a                 =2.5
+b//a                =2 floor cuts off deciml
+b**a                =25 times it like b^a
+b%a                 =1 modulus (the remainder) so 10/3=3 remainder 1
+a+B                 =7
+type(42)            =42
+type(42.0)          =42.0
+type("C3PO")        ='C3PO'
+type(True)          =True
 
 
 
@@ -30,8 +30,8 @@ a/=2
 a+=12
 a-=7
 
-a             =
-type(a)       =
+a             =15.0
+type(a)       =float
 
 
 

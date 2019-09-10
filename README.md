@@ -7,3 +7,5 @@ In this chapter you will be practicing basic python variables and operators. You
   <li>Jedi Training</li>
   <li>PDF Log</li>
   </ol>
+a=2
+b=5
