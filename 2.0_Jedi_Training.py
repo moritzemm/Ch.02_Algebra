@@ -38,7 +38,7 @@ type(a)       =float
 4.) Fix the mistake in the following code.
 x,y = (4,5)
 a = 3(x + y)
-a
+a = 3*(x+y)
 
 
 
@@ -48,7 +48,7 @@ a
 5.) Fix the code so it will calculate the average.
 x,y,z =(3,4,5)
 ave = x+y+z/3
-ave
+ave = (x+y+z)/3
 
 
 
