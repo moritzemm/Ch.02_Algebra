@@ -14,10 +14,10 @@ b//a                =2 floor cuts off deciml
 b**a                =25 times it like b^a
 b%a                 =1 modulus (the remainder) so 10/3=3 remainder 1
 a+B                 =7
-type(42)            =42
-type(42.0)          =42.0
-type("C3PO")        ='C3PO'
-type(True)          =True
+type(42)            =<class 'int'> meaning the number is an interger
+type(42.0)          =float
+type("C3PO")        =string
+type(True)          = error, true is not defined and it is a statement.
 
 
 
